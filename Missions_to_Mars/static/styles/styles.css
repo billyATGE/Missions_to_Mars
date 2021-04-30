@@ -1,0 +1,76 @@
+h1 {
+    color:   #002a57;
+    font-size: 45px;
+    font-weight: bold;
+    /* font-style: italic; */
+    /* text-align:center; */
+}
+
+
+h2 {
+    /* color:lightcyan; */
+    color:   #002a57;
+    font-size: 24px;
+    text-align: left;
+}
+
+h3 {
+    color: #002a57;
+    font-size: 18px;
+    /* text-decoration: underline; */
+    /* font-style: italic; */
+    text-align: left;
+}
+
+h4 {
+    color: #002a57;
+    font-size: 22px;
+    font-weight: bold;
+    /* text-decoration: underline; */
+    /* font-style: italic; */
+    text-align: center;
+}
+
+body {
+    width: 100%;
+    min-height: 100%;
+    background-color: white;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #002a57;
+    border-color: #002a57;
+    }
+.jumbotron {
+    padding: 5rem 4rem;
+    margin-bottom: 5rem;
+    background-color: #853131;
+    border-radius: .5rem;
+    }
+
+
+img {
+    width: 100%;
+}
+
+.boxborder {
+    /* background: lightgray; */
+    padding: 10px;
+    border: rgb(0, 0, 0) 2px solid;
+}
+
+.boxmargin {
+    /* background: lightgray; */
+    padding: 2px;
+    border: rgb(0, 0, 0) 2px solid;
+    margin: 10px 0px 10px 0px;
+}
+
+#vpadding {
+    padding: 25% 0;
+    }
+#scale_id {
+    width: 500px;
+    height: 500px;
+    object-fit: fill;
+}
